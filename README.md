@@ -15,6 +15,3 @@ Let’s collaborate and drive data-powered success together! 🚀
 📩 Contact Me:
 🔗 LinkedIn - http://www.linkedin.com/in/rithan-ravikumar-a5a187199
 📧 rithanravikumar@gmail.com
-📩 Contact Me:
-🔗 LinkedIn
-📧 rithanravikumar@gmail.com
