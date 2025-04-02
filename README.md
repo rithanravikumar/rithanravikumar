@@ -1,7 +1,9 @@
 Hi myself Rithan R   -  | Data Analyst | Data Scientist
 🔍 Turning Data into Insights, and Insights into Action!
 
-I am a Data Analyst/Data Scientist passionate about uncovering meaningful patterns from data. With expertise in Python, SQL, Power BI, Machine Learning, AWS, Excel, and Business Intelligence, I strive to deliver data-driven solutions that enhance business decision-making.
+I am a Data Analyst/Data Scientist passionate about uncovering meaningful patterns from data. 
+With expertise in Python, SQL, Power BI, Machine Learning, AWS, Excel, and Business Intelligence, 
+I strive to deliver data-driven solutions that enhance business decision-making.
 
 📊 Why Hire Me?
 ✅ Strong analytical mindset with hands-on experience in real-world datasets
